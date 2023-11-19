@@ -1,7 +1,7 @@
 # BrycenHarris.github.io
 
 
- ## Project
+  ## Project
 
   - Hobbies
   - Education
