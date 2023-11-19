@@ -3,7 +3,6 @@
 
  ## Project
 
- -Hobbies
- -Education
- -Employment
- 
+  - Hobbies
+  - Education
+  - Employment
